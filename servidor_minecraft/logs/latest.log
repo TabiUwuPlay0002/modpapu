@@ -1038,3 +1038,31 @@ BCLib - The End  BiomeSource (26bfbe8a)
 [05Jul2024 12:33:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set the time to 1000]
 [05Jul2024 12:33:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
 [05Jul2024 12:34:01.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Removed effect Irradiated from AntiCristo21]
+[05Jul2024 12:36:01.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Applied effect Night Vision to AntiCristo21]
+[05Jul2024 12:36:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Iron Maiden]
+[05Jul2024 12:37:24.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/3391, l='ServerLevel[world]', x=4780.55, y=-6.99, z=-2800.47] died: Foundry Guardian was slain by AntiCristo21
+[05Jul2024 12:37:26.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Into Fire]
+[05Jul2024 12:37:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Who is Cutting Onions?]
+[05Jul2024 12:37:58.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
+[05Jul2024 12:38:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Alex's Caves]
+[05Jul2024 12:38:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [It Belongs in a Museum]
+[05Jul2024 12:42:42.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to 1856.500000, 77.000000, -2655.500000]
+[05Jul2024 12:42:42.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[05Jul2024 12:42:42.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 moved too quickly! 0.0,-10.806526110008988,0.0
+[05Jul2024 12:43:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [You Are A Pirate]
+[05Jul2024 12:45:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to -1855.500000, 77.000000, 2650.500000]
+[05Jul2024 12:45:32.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[05Jul2024 12:46:02.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to -1855.500000, 77.000000, -2649.500000]
+[05Jul2024 12:46:02.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5571ms or 111 ticks behind
+[05Jul2024 12:47:23.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to -1855.500000, 77.000000, -2332.500000]
+[05Jul2024 12:47:23.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[05Jul2024 12:48:07.785] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[05Jul2024 12:48:07.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[05Jul2024 12:48:08.190] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[05Jul2024 12:48:31.301] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/bandit_towers (dungeons_arise:bandit_towers) took 329 ms
+[05Jul2024 12:49:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to 1888.500000, 77.000000, -2332.500000]
+[05Jul2024 12:50:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to 2100.500000, 77.000000, -2332.500000]
+[05Jul2024 12:51:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to -1869.500000, 46.000000, -5688.500000]
+[05Jul2024 12:52:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
+[05Jul2024 12:54:46.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 20 [Anvil] to AntiCristo21]
+[05Jul2024 12:55:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Removed every effect from AntiCristo21]
