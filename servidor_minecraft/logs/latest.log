@@ -2489,3 +2489,39 @@ java.util.ConcurrentModificationException: null
 [05Jul2024 02:40:32.635] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [05Jul2024 02:40:32.635] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [05Jul2024 02:40:32.635] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 02:41:50.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
+[05Jul2024 02:42:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
+[05Jul2024 02:43:32.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 02:43:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 02:44:23.352] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14d3b84[id=<null>,name=AntiCristo21,properties={},legacy=false] (/127.111.236.208:36767) lost connection: Disconnected
+[05Jul2024 02:44:58.401] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@77daf9fa[id=<null>,name=AntiCristo21,properties={},legacy=false] (/127.111.236.208:44151): Took too long to log in
+[05Jul2024 02:44:58.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77daf9fa[id=<null>,name=AntiCristo21,properties={},legacy=false] (/127.111.236.208:44151) lost connection: Took too long to log in
+[05Jul2024 02:44:58.453] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jul2024 02:45:07.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:42083] logged in with entity id 29533 at (-1855.578482139196, 161.0, -5689.158332323608)
+[05Jul2024 02:45:07.868] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 02:45:07.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 02:45:08.403] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 02:45:08.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 02:45:08.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 02:45:08.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 02:45:08.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 02:45:08.404] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 02:45:08.405] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 02:45:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> che ocupo cactus xd
+[05Jul2024 02:45:28.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> si puedes me traes
+[05Jul2024 02:45:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ya
+[05Jul2024 02:45:34.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> cuanto
+[05Jul2024 02:45:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pera
+[05Jul2024 02:45:55.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 4 no mas
+[05Jul2024 02:46:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ya
