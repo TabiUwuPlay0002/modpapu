@@ -1746,3 +1746,198 @@ java.util.ConcurrentModificationException: null
 [05Jul2024 01:28:29.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> ontas
 [05Jul2024 01:28:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> looteando todo lo que veo xd
 [05Jul2024 01:28:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> resumido: no se
+[05Jul2024 01:28:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> yo toy luteando todo barril y cofre q veo xdd
+[05Jul2024 01:29:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[05Jul2024 01:29:38.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:29:38.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:30:02.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:47003] logged in with entity id 16240 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:30:02.466] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:30:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:30:02.717] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:30:02.717] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:30:02.718] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:30:02.719] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:30:32.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:30:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:31:09.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:40245] logged in with entity id 16362 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:31:09.672] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:31:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:31:10.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[05Jul2024 01:31:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:31:21.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:43551] logged in with entity id 16394 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:31:21.564] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:31:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:31:22.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:31:22.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:31:22.369] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:31:22.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:31:22.371] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:31:51.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:31:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:32:47.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:36499] logged in with entity id 16524 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:32:47.016] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:32:47.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:32:47.272] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:32:47.272] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:32:47.273] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:32:47.273] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:32:47.273] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:32:47.274] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:32:47.275] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:32:47.275] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:33:17.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:33:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:33:42.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:43609] logged in with entity id 16647 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:33:42.566] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:33:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:33:42.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:33:42.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:33:42.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:33:42.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:33:42.938] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:33:42.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:33:42.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:34:12.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:34:12.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:34:43.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:54095] logged in with entity id 16835 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:34:43.864] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:34:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:34:44.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:34:44.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:34:44.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:34:44.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:34:44.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:34:44.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:34:44.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:34:44.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:34:44.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:34:44.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:35:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> PERDONAME POR TODO GOKU
+[05Jul2024 01:35:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[05Jul2024 01:35:13.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:35:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:35:48.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:36909] logged in with entity id 16958 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:35:48.864] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:35:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:35:49.104] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:35:49.104] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:35:49.105] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:35:49.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:36:18.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:36:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:37:33.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:58661] logged in with entity id 17101 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:37:33.715] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:37:33.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:37:34.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:37:34.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:37:34.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:37:34.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:38:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> PERDONAME POR TODO GOKUUUUUUUU
+[05Jul2024 01:38:03.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Timed out
+[05Jul2024 01:38:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[05Jul2024 01:38:17.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AntiCristo21[/127.111.236.208:46267] logged in with entity id 17203 at (-1869.3763147845643, 119.76636799395752, -5688.194214877422)
+[05Jul2024 01:38:17.312] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jul2024 01:38:17.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 joined the game
+[05Jul2024 01:38:17.574] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Jul2024 01:38:17.574] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Jul2024 01:38:17.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Jul2024 01:38:17.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Jul2024 01:38:17.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Jul2024 01:38:17.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Jul2024 01:38:17.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Jul2024 01:38:17.576] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Jul2024 01:38:17.577] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Jul2024 01:38:17.577] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Jul2024 01:38:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Ice Bucket Challenge]
