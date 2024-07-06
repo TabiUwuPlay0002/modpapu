@@ -6820,3 +6820,264 @@ BCLib - Nether BiomeSource (5f64c02c)
 [06Jul2024 03:40:17.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [06Jul2024 03:40:17.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 03:40:17.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:41:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> blazes
+[06Jul2024 03:41:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mrd no tengo escudo mano
+[06Jul2024 03:42:14.352] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kamder with unique ID 941eea77-e1e3-4682-b119-5ecac95565d7
+[06Jul2024 03:42:14.356] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -819 Y: -8 Z: 1939
+[06Jul2024 03:42:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder was slain by Magma Cube
+[06Jul2024 03:42:21.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> weon no tenia escudo xd
+[06Jul2024 03:42:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> terrible
+[06Jul2024 03:42:24.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[06Jul2024 03:42:29.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mis cosas D:
+[06Jul2024 03:42:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ve tu
+[06Jul2024 03:42:45.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8599, l='ServerLevel[world]', x=-790.70, y=-5.00, z=1949.70] died: Foundry Guardian drowned
+[06Jul2024 03:42:51.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> XDD
+[06Jul2024 03:43:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder was shot by Forge Sentry
+[06Jul2024 03:43:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> NO MAMES
+[06Jul2024 03:43:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> WE
+[06Jul2024 03:43:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> mi arco D:
+[06Jul2024 03:43:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[06Jul2024 03:43:38.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> lo vi caer a la lava
+[06Jul2024 03:43:40.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> :C
+[06Jul2024 03:43:41.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8905, l='ServerLevel[world]', x=-790.70, y=-5.00, z=1949.70] died: Foundry Guardian drowned
+[06Jul2024 03:43:44.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8904, l='ServerLevel[world]', x=-802.70, y=-8.00, z=1946.50] died: Foundry Guardian drowned
+[06Jul2024 03:43:46.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> putos magma cubes
+[06Jul2024 03:43:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> eliminenlos del juego
+[06Jul2024 03:43:57.796] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AntiCristo21 with unique ID e055e6d5-0463-4b1d-8ae5-0cc5db55fc5c
+[06Jul2024 03:43:57.796] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -789 Y: -5 Z: 1949
+[06Jul2024 03:43:57.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 was shot by Forge Sentry
+[06Jul2024 03:44:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder was shot by Forge Sentry
+[06Jul2024 03:44:09.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to Kamder]
+[06Jul2024 03:44:11.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8906, l='ServerLevel[world]', x=-790.70, y=-5.00, z=1949.70] died: Foundry Guardian drowned
+[06Jul2024 03:44:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pon resis
+[06Jul2024 03:44:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> nmme
+[06Jul2024 03:44:25.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Applied effect Resistance to 2 targets]
+[06Jul2024 03:44:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Applied effect Resistance to 2 targets]
+[06Jul2024 03:44:44.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported AntiCristo21 to Kamder]
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Jul2024 03:45:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Jul2024 03:45:17.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:45:17.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:45:24.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/8646, l='ServerLevel[world]', x=-800.73, y=-8.00, z=1948.49] died: Forge Sentry was slain by Kamder
+[06Jul2024 03:46:07.236] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8883, l='ServerLevel[world]', x=-790.70, y=-4.95, z=1949.70] died: Foundry Guardian drowned
+[06Jul2024 03:46:08.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> no veo nada de tanto mob de mierda
+[06Jul2024 03:46:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> y aparte los esqueletos con arcos tienen un knockback que te mandan a narnia
+[06Jul2024 03:46:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> si
+[06Jul2024 03:46:27.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> tengo parte de las mias y las tuyas
+[06Jul2024 03:46:41.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pone pacifico JAJA
+[06Jul2024 03:46:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> kill @e[type=!player]
+[06Jul2024 03:47:02.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5382, l='ServerLevel[world]', x=-911.89, y=63.00, z=1971.49] died, message: 'Weaponsmith was killed'
+[06Jul2024 03:47:02.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8525, l='ServerLevel[world]', x=-781.61, y=-1.16, z=1928.62] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8597, l='ServerLevel[world]', x=-875.55, y=65.00, z=1973.90] died, message: 'Weaponsmith was killed'
+[06Jul2024 03:47:02.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8643, l='ServerLevel[world]', x=-807.07, y=-9.54, z=1957.21] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/8648, l='ServerLevel[world]', x=-826.33, y=-9.00, z=1940.25] died: Forge Sentry was killed whilst fighting Forge Sentry
+[06Jul2024 03:47:02.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8926, l='ServerLevel[world]', x=-774.74, y=3.64, z=1939.53] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/8927, l='ServerLevel[world]', x=-774.91, y=-1.00, z=1940.98] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9491, l='ServerLevel[world]', x=-902.59, y=63.00, z=2011.12] died, message: 'Farmer was killed'
+[06Jul2024 03:47:02.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9492, l='ServerLevel[world]', x=-912.02, y=63.00, z=1992.49] died, message: 'Villager was killed'
+[06Jul2024 03:47:02.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9499, l='ServerLevel[world]', x=-904.68, y=62.94, z=1970.51] died, message: 'Armorer was killed'
+[06Jul2024 03:47:02.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9591, l='ServerLevel[world]', x=-803.85, y=-8.00, z=1945.41] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9592, l='ServerLevel[world]', x=-787.83, y=-5.00, z=1941.66] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9624, l='ServerLevel[world]', x=-814.17, y=-8.00, z=1951.07] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9625, l='ServerLevel[world]', x=-806.66, y=-8.00, z=1937.36] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9626, l='ServerLevel[world]', x=-808.68, y=-8.00, z=1945.88] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9718, l='ServerLevel[world]', x=-917.95, y=63.00, z=2003.48] died, message: 'Villager was killed'
+[06Jul2024 03:47:02.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9719, l='ServerLevel[world]', x=-916.65, y=71.94, z=2026.19] died, message: 'Villager was killed'
+[06Jul2024 03:47:02.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9720, l='ServerLevel[world]', x=-915.28, y=72.00, z=2026.89] died, message: 'Nitwit was killed'
+[06Jul2024 03:47:02.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9824, l='ServerLevel[world]', x=-807.48, y=-5.51, z=1936.83] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9825, l='ServerLevel[world]', x=-812.68, y=-8.00, z=1946.62] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9826, l='ServerLevel[world]', x=-809.63, y=-5.99, z=1946.04] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/9852, l='ServerLevel[world]', x=-807.17, y=-6.56, z=1954.39] died: Forge Sentry was killed
+[06Jul2024 03:47:02.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/9854, l='ServerLevel[world]', x=-817.09, y=-8.23, z=1949.50] died: Forge Sentry was killed
+[06Jul2024 03:47:02.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9897, l='ServerLevel[world]', x=-797.46, y=0.01, z=1944.46] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9898, l='ServerLevel[world]', x=-808.73, y=-7.81, z=1939.10] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9899, l='ServerLevel[world]', x=-811.09, y=-3.88, z=1946.25] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9900, l='ServerLevel[world]', x=-810.59, y=-2.61, z=1940.54] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/9901, l='ServerLevel[world]', x=-818.24, y=-5.52, z=1941.27] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/10061, l='ServerLevel[world]', x=-807.61, y=-8.00, z=1943.12] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/10062, l='ServerLevel[world]', x=-813.63, y=-6.45, z=1941.71] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/10063, l='ServerLevel[world]', x=-810.86, y=-8.00, z=1942.10] died: Foundry Guardian was killed
+[06Jul2024 03:47:02.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/10144, l='ServerLevel[world]', x=-810.06, y=-8.23, z=1934.68] died: Forge Sentry was killed
+[06Jul2024 03:47:03.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10341, l='ServerLevel[world]', x=-941.50, y=63.00, z=1970.50] died, message: 'Villager was killed'
+[06Jul2024 03:47:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 465 entities]
+[06Jul2024 03:47:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 497 entities]
+[06Jul2024 03:47:12.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11104, l='ServerLevel[world]', x=-810.52, y=-4.72, z=1945.74] died: Foundry Guardian was killed
+[06Jul2024 03:47:12.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11105, l='ServerLevel[world]', x=-811.14, y=-6.72, z=1946.01] died: Foundry Guardian was killed
+[06Jul2024 03:47:12.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11106, l='ServerLevel[world]', x=-812.03, y=-4.72, z=1942.59] died: Foundry Guardian was killed
+[06Jul2024 03:47:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 92 entities]
+[06Jul2024 03:47:32.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11163, l='ServerLevel[world]', x=-790.67, y=-4.48, z=1948.55] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11164, l='ServerLevel[world]', x=-782.23, y=-3.00, z=1946.48] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11174, l='ServerLevel[world]', x=-813.24, y=1.00, z=1942.09] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11175, l='ServerLevel[world]', x=-813.83, y=2.00, z=1943.35] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11176, l='ServerLevel[world]', x=-810.12, y=3.00, z=1945.28] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11177, l='ServerLevel[world]', x=-812.73, y=1.00, z=1944.31] died: Foundry Guardian was killed
+[06Jul2024 03:47:32.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 56 entities]
+[06Jul2024 03:47:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> wat
+[06Jul2024 03:47:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> si
+[06Jul2024 03:48:11.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> si te la di no? ._.
+[06Jul2024 03:48:24.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11264, l='ServerLevel[world]', x=-812.55, y=-7.56, z=1942.73] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11265, l='ServerLevel[world]', x=-813.81, y=-8.00, z=1940.21] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11266, l='ServerLevel[world]', x=-809.53, y=-6.34, z=1941.70] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11267, l='ServerLevel[world]', x=-810.52, y=-3.05, z=1938.80] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11327, l='ServerLevel[world]', x=-813.45, y=-3.68, z=1942.21] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11328, l='ServerLevel[world]', x=-809.07, y=-5.54, z=1943.12] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11329, l='ServerLevel[world]', x=-810.24, y=-8.00, z=1942.16] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11330, l='ServerLevel[world]', x=-813.58, y=-8.00, z=1943.84] died: Foundry Guardian was killed
+[06Jul2024 03:48:24.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 88 entities]
+[06Jul2024 03:48:31.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> y ya
+[06Jul2024 03:48:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> es todo lo que tenia tuyo
+[06Jul2024 03:48:37.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11445, l='ServerLevel[world]', x=-810.35, y=-7.72, z=1944.30] died: Foundry Guardian was killed
+[06Jul2024 03:48:37.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Killed 79 entities]
+[06Jul2024 03:48:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[06Jul2024 03:48:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> tu pico y hacha
+[06Jul2024 03:48:59.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/11528, l='ServerLevel[world]', x=-808.67, y=-4.79, z=1945.19] died: Foundry Guardian was shot by Kamder
+[06Jul2024 03:49:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Teleported Kamder to AntiCristo21]
+[06Jul2024 03:49:41.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> nmme
+[06Jul2024 03:49:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> nos van a papear otra vez xd
+[06Jul2024 03:50:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Removed every effect from 2 targets]
+[06Jul2024 03:50:15.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> zi
+[06Jul2024 03:50:17.512] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: worlds_together:worldgen/betterx/biome_codec
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Jul2024 03:50:17.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Jul2024 03:50:17.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:50:17.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:50:45.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ya no quiero estar aqui xdd
