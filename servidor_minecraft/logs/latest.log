@@ -1196,3 +1196,16 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 16:12:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
 [06Jul2024 16:23:10.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/11016, l='ServerLevel[world]', x=1805.57, y=-128.08, z=-492.94] died, message: 'Toolsmith fell out of the world'
 [06Jul2024 16:25:26.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11560, l='ServerLevel[world]', x=1820.59, y=-128.08, z=-497.92] died, message: 'Villager fell out of the world'
+[06Jul2024 16:44:19.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AntiCristo21 lost connection: Disconnected
+[06Jul2024 16:44:19.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 left the game
+[06Jul2024 16:44:39.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2024 16:44:39.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2024 16:44:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2024 16:44:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2024 16:44:40.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2024 16:44:49.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2024 16:44:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2024 16:44:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2024 16:44:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2024 16:44:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2024 16:44:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
