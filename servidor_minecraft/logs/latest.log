@@ -1139,3 +1139,4 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 14:09:44.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> culo
 [06Jul2024 14:14:19.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
 [06Jul2024 14:16:41.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
+[06Jul2024 14:19:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Red Nether]
