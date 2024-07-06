@@ -1185,3 +1185,7 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 15:05:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
 [06Jul2024 15:06:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
 [06Jul2024 15:08:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Hidden in the Depths]
+[06Jul2024 15:13:26.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6674, l='ServerLevel[world]', x=1808.45, y=-128.08, z=-488.70] died, message: 'Villager fell out of the world'
+[06Jul2024 15:13:33.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7434, l='ServerLevel[world]', x=1807.83, y=-128.08, z=-496.01] died, message: 'Villager fell out of the world'
+[06Jul2024 15:14:10.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2740, l='ServerLevel[world]', x=1819.10, y=-128.08, z=-499.18] died, message: 'Farmer fell out of the world'
+[06Jul2024 15:14:27.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7077, l='ServerLevel[world]', x=1805.56, y=-128.08, z=-500.55] died, message: 'Villager fell out of the world'
