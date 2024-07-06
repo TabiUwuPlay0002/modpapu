@@ -1180,3 +1180,8 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 14:53:42.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5516, l='ServerLevel[world]', x=1818.39, y=-128.08, z=-498.89] died, message: 'Villager fell out of the world'
 [06Jul2024 14:53:55.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5862, l='ServerLevel[world]', x=1806.89, y=-128.08, z=-500.56] died, message: 'Villager fell out of the world'
 [06Jul2024 14:58:38.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6087, l='ServerLevel[world]', x=1820.13, y=-128.08, z=-499.76] died, message: 'Villager fell out of the world'
+[06Jul2024 15:00:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 1000000 experience points to AntiCristo21]
+[06Jul2024 15:00:50.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 70 [Block of Lapis Lazuli] to AntiCristo21]
+[06Jul2024 15:05:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Creative Mode]
+[06Jul2024 15:06:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Set own game mode to Survival Mode]
+[06Jul2024 15:08:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AntiCristo21 has made the advancement [Hidden in the Depths]
