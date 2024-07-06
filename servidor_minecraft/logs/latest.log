@@ -1194,3 +1194,5 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 15:44:27.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8146, l='ServerLevel[world]', x=1818.44, y=-128.08, z=-498.98] died, message: 'Villager fell out of the world'
 [06Jul2024 15:44:30.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7798, l='ServerLevel[world]', x=1818.84, y=-128.08, z=-499.70] died, message: 'Villager fell out of the world'
 [06Jul2024 16:12:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AntiCristo21> xd
+[06Jul2024 16:23:10.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/11016, l='ServerLevel[world]', x=1805.57, y=-128.08, z=-492.94] died, message: 'Toolsmith fell out of the world'
+[06Jul2024 16:25:26.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11560, l='ServerLevel[world]', x=1820.59, y=-128.08, z=-497.92] died, message: 'Villager fell out of the world'
