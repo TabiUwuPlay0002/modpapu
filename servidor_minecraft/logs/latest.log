@@ -1167,3 +1167,6 @@ java.lang.RuntimeException: Unknown registry element in ResourceKey[minecraft:ro
 [06Jul2024 14:35:16.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [06Jul2024 14:35:16.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [06Jul2024 14:35:16.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/modpapu/servidor_minecraft/bclib-sync (allowDelete=true)
+[06Jul2024 14:43:42.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3210, l='ServerLevel[world]', x=1820.38, y=-128.08, z=-496.06] died, message: 'Villager fell out of the world'
+[06Jul2024 14:44:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AntiCristo21: Gave 1 [Book] to AntiCristo21]
+[06Jul2024 14:47:39.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5043, l='ServerLevel[world]', x=1818.33, y=-128.08, z=-499.64] died, message: 'Villager fell out of the world'
